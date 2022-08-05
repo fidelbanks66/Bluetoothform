@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "p6tYiaOrKwDudCUUP/JlfXYnC3Mk73+gcDdCKKmWfJvHLjVPRyKQQmOnlSsAxkaM8ZsYmj+3u55L21eZlRtaOw==",
+  "success": true,
+  "projectFilePath": "C:\\@development\\smarttill3\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mwestwood\\.nuget\\packages\\inthehand.bluetoothle\\4.0.23\\inthehand.bluetoothle.4.0.23.nupkg.sha512",
+    "C:\\Users\\mwestwood\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.19041.1\\microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512",
+    "C:\\Users\\mwestwood\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\mwestwood\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
